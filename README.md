@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center"> Olá, mundo! Eu sou a Luísa Fonseca! </h1>
+<p align="center"> 🇬🇧 Hello, world! I'm Luísa Fonseca!
+  <p>
+<p align="center">
+🎓 Futura engenheira de Controle e Automação - UNISINOS. <br>
+🖥️ Programação Java - Geração Caldeira 2025.
+</p>
 
-<!--
-**luisa-fonseca/luisa-fonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim (About me):
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Explorando **programação** (Java e Python)  
+- 🤖 Interesse em **automação, eletrônica e IoT**  
+- 🌎 Idiomas - **Espanhol, Francês e Inglês**  
+- ✨ A tecnologia e a força da interdisciplinaridade me despertam! :)
