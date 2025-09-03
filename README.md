@@ -10,5 +10,5 @@
 
 - 🔭 Explorando **programação** (Java e Python)  
 - 🤖 Interesse em **automação, eletrônica e IoT**  
-- 🌎 Idiomas - **Espanhol, Francês e Inglês**  
+- 🌎 Idiomas - **Inglês, Espanhol, Francês**  
 - ✨ A tecnologia e a força da interdisciplinaridade me despertam! :)
