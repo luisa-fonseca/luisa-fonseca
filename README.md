@@ -2,8 +2,8 @@
 <p align="center"> 🇬🇧 Hello, world! I'm Luísa Fonseca!
   <p>
 <p align="center">
-🎓 Futura engenheira de Controle e Automação - UNISINOS. <br>
-🖥️ Programação Java - Geração Caldeira 2025.
+🎓 Futura engenheira de Controle e Automação @ Unisinos <br>
+🖥️ Programação Java @ Geração Caldeira 2025
 </p>
 
 ## 🚀 Sobre mim (About me):
