@@ -17,5 +17,5 @@
   <a href="https://github.com/luisa-fonseca">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisa-fonseca&show_icons=true&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisa-fonseca&layout=compact&langs_count=6&theme=dracula"/>
-  </a>
+    <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=luisa-fonseca&layout=compact)/>
 </div>
