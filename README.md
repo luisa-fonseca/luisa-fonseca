@@ -12,9 +12,3 @@
 - 🤖 Interesse em **automação, eletrônica e IoT**  
 - 🌎 Idiomas - **Inglês, Espanhol, Francês**  
 - ✨ A tecnologia e a força da interdisciplinaridade me despertam! :)
-
-<div align="center">
-<a href="https://github.com/luisa-fonseca">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisa-fonseca&layout=compact&langs_count=5&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=luisa-fonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
